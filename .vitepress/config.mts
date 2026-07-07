@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'demo-vitepress',
+  base: '/demo-vitepress/',
   srcDir: "docs",
   
   title: "My Lib",
